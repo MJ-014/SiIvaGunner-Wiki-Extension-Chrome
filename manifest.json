@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "SiIvaGunner Wiki Extension",
+    "description": "Instantly visit the SiIvaGunner wiki page of the rip you are viewing by just one click",
+    "version": "1.4",
+    "icons": {
+        "16": "/images/16.png",
+        "48": "/images/48.png",
+        "128": "/images/128.png"
+    },
+    "action": {
+        "default_title": "Click to visit the page"
+      },
+      "permissions": ["activeTab", "scripting"],
+      "background": {
+        "service_worker": "popup.js"
+      }
+}
