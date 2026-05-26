@@ -1,0 +1,1 @@
+This is the Chrome version of the [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/siivagunner-wiki-extension/) that allows you to access your favorite rip's wiki page with the click of a button (which is funny because I originally made the Chrome version first before making the Firefox version).
