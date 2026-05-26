@@ -9,6 +9,6 @@ Note that I have no idea how to write an extension.
 1. Unpack the extension to a folder.
 1. Go to your extension page (chrome://extensions/ or about:debugging#/runtime/this-firefox).
 1. On Chrome, enable the Developer mode and click "Load unpacked"; On Firefox, click "Load Temporary Add-on...".
-1. go to the extension folder and click "Select Folder" (On Firefox, click one of the files and click "Open").
+1. go to the extension folder and click "Select Folder".
 <br><br><br>
 > This is the Chrome version of the [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/siivagunner-wiki-extension/).
